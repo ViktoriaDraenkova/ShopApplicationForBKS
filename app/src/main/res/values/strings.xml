@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Shop Application For BKS</string>
+    <string name="main">Главная</string>
+    <string name="add_to_cart">В корзину</string>
+    <string name="card">cart</string>
+    <string name="products">Товары</string>
+    <string name="mines">-</string>
+    <string name="plus">+</string>
+    <string name="cart">Корзина</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="error_no_internet">Нет соединения с интернетом</string>
+
+    <string name="percent">0%</string>
+    <string name="next">Далее</string>
+    <string name="enter_your_email">Введите ваш email</string>
+    <string name="registration">Регистрация</string>
+    <string name="authorisation">Авторизация</string>
+    <string name="auth">Авторизоваться</string>
+    <string name="second_name">Фимилия</string>
+    <string name="name">Имя</string>
+    <string name="fathers_name">Отчество</string>
+    <string name="enter_all_personal_info">Пожалуйста, введите ФИО пользователя</string>
+    <string name="enter_login_password">Пожалуйста, введите логин и пароль</string>
+    <string name="users_data">Данные о пользователе</string>
+    <string name="finished">Завершено</string>
+    <string name="finish">Завершить</string>
+    <string name="patronymic">Отчество</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="login">Логин (e-mail)</string>
+    <string name="enter">Войти</string>
+    <string name="in_stock">В наличии:</string>
+    <string name="buy">Купить</string>
+
+    <string name="profile">Профиль</string>
+    <string name="history">История покупок</string>
+    <string name="personal_account">Личный аккаунт</string>
+    <string name="clean_history">Очистить историю</string>
+    <string name="greeting">Рады вас снова видеть в нашем приложении, дорогой пользователь</string>
+    <string name="back">Back</string>
+    <string name="was_bought">Покупка была совершена:</string>
+</resources>
